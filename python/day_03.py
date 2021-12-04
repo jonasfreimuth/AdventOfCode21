@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# inspired by the version by https://github.com/Eixix/Advent-of-Code
 def main():
     f_name = "data/input.txt"
 
