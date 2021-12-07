@@ -1,3 +1,5 @@
+library("magrittr")
+
 input <- read.csv("../data/input_07.txt", header = FALSE) %>%
   unlist() %>% 
   as.vector()
